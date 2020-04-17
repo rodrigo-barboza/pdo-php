@@ -3,13 +3,13 @@
 /*
 	SERVIDOR: XAMPP
 	PHP: 7.2
-	ESTRUTURA DO BANCO MYSQL
+	ESTRUTURA DO BANCO (MYSQL)
 	BANCO  = aluno
 	TABELA = tb_aluno [
-						id_aluno: primary, int[11], auto_incremento;
-						nome_aluno: var_char[150];
-						email_aluno: var_char[150];
-					  ]
+			   id_aluno: primary, int[11], auto_incremento;
+			   nome_aluno: var_char[150];
+			   email_aluno: var_char[150];
+			  ]
 	AUTOR: RODRIGO BARBOZA
 	CRIADO: 17/04/2020 
 */
